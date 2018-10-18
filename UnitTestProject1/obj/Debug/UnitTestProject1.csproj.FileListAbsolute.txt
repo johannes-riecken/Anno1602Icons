@@ -1,0 +1,8 @@
+C:\Users\Jo\documents\visual studio 2015\Projects\Anno1602Icons\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Jo\documents\visual studio 2015\Projects\Anno1602Icons\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Jo\documents\visual studio 2015\Projects\Anno1602Icons\UnitTestProject1\bin\Debug\Anno1602Icons.exe
+C:\Users\Jo\documents\visual studio 2015\Projects\Anno1602Icons\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Jo\documents\visual studio 2015\Projects\Anno1602Icons\UnitTestProject1\bin\Debug\Anno1602Icons.pdb
+C:\Users\Jo\documents\visual studio 2015\Projects\Anno1602Icons\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Jo\documents\visual studio 2015\Projects\Anno1602Icons\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Jo\documents\visual studio 2015\Projects\Anno1602Icons\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
