@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60c4f1db-6014-48cd-a6e4-027984e888a0" name="Default Changelist" comment="" />
+    <list default="true" id="60c4f1db-6014-48cd-a6e4-027984e888a0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Anno1602Icons/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Anno1602Icons/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTestProject1/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTestProject1/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTestProject1/UnitTest1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTestProject1/UnitTest1.cs" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,10 +16,11 @@
     <session id="571964243">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -45,7 +50,10 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/UnitTestProject1/UnitTest1.cs" root0="FORCE_HIGHLIGHTING" />
@@ -76,6 +84,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -83,17 +92,11 @@
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="Anno1602Icons" type="24d0babc:SolutionExplorerModelNode" />
             </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Anno1602Icons" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Anno1602Icons" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -145,11 +148,12 @@
       <updated>1539892893283</updated>
       <workItem from="1539892895936" duration="253000" />
       <workItem from="1539893303594" duration="289000" />
+      <workItem from="1539896691257" duration="24000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="542000" />
+    <option name="totallyTimeSpent" value="566000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -163,7 +167,7 @@
   <component name="ToolWindowManager">
     <frame x="-3" y="31" width="1926" height="1172" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18157615" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18317358" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -179,11 +183,11 @@
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unit Tests" order="11" />
       <window_info anchor="bottom" id="Terminal" order="12" />
-      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" visible="true" weight="0.2753346" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" visible="true" weight="0.27559808" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Errors In Solution" order="3" visible="true" weight="0.32960597" />
+      <window_info active="true" anchor="right" id="Errors In Solution" order="3" visible="true" weight="0.32960597" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
@@ -210,10 +214,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
           <caret line="37" column="7" selection-start-line="6" selection-end-line="37" selection-end-column="7" />
-          <folding>
-            <marker date="1539893472108" expanded="true" signature="97:1097" ph="{...}" />
-            <marker date="1539893472108" expanded="true" signature="100:1095" ph="/* [TestClass] ... */" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -221,12 +221,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-          <folding>
-            <marker date="1473732410592" expanded="true" signature="6:101" ph="..." />
-            <marker date="1473732410592" expanded="true" signature="103:290" ph="/* General Information about an assembly is controlled through the following ... */" />
-            <marker date="1473732410592" expanded="true" signature="609:819" ph="/* Setting ComVisible to false makes the types in this assembly not visible ... */" />
-            <marker date="1473732410592" expanded="true" signature="994:1321" ph="/* Version information for an assembly consists of the following four values: ... */" />
-          </folding>
         </state>
       </provider>
     </entry>
