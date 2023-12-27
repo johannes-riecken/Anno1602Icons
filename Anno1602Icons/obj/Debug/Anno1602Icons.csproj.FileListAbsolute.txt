@@ -1,8 +1,0 @@
-c:/users/jo/documents/visual studio 2015/Projects/Anno1602Icons/Anno1602Icons/bin/Debug/Anno1602Icons.exe.config
-c:/users/jo/documents/visual studio 2015/Projects/Anno1602Icons/Anno1602Icons/bin/Debug/Anno1602Icons.exe
-c:/users/jo/documents/visual studio 2015/Projects/Anno1602Icons/Anno1602Icons/bin/Debug/Anno1602Icons.pdb
-c:/users/jo/documents/visual studio 2015/Projects/Anno1602Icons/Anno1602Icons/obj/Debug/Anno1602Icons.csprojResolveAssemblyReference.cache
-c:/users/jo/documents/visual studio 2015/Projects/Anno1602Icons/Anno1602Icons/obj/Debug/Anno1602Icons.exe
-c:/users/jo/documents/visual studio 2015/Projects/Anno1602Icons/Anno1602Icons/obj/Debug/Anno1602Icons.pdb
-/home/jo/csharp/Anno1602Icons/Anno1602Icons/obj/Debug/Anno1602Icons.exe
-/home/jo/csharp/Anno1602Icons/Anno1602Icons/obj/Debug/Anno1602Icons.pdb
